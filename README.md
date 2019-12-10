@@ -1,2 +1,4 @@
 # dg-dashboard
-Data Grid dashboard application
+Data Grid Spring Boot dashboard application
+
+https://spring.io/guides/gs/spring-boot-docker/
